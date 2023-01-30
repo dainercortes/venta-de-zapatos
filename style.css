@@ -97,7 +97,7 @@ form .icon-busqueda {
 
 main {
     width: 100%;
-    margin: 30px auto 0 auto;
+    margin: 30px auto 100px auto;
 }
 main .title {
     font-size: var(--xl);
