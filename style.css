@@ -41,9 +41,9 @@ nav .contenedor-nav {
     align-items: center;
 }
 nav .contenedor-nav .menu {
-    font-size: 24px;
-    width: 24px;
-    height: 24px;
+    font-size: 28px;
+    width: 28px;
+    height: 28px;
     text-align: center;
     color: var(--black);
     background: transparent;
